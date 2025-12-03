@@ -1,0 +1,32 @@
+StarBrew Coffee — Store Information, Policies, Offers, and Customer Experience Guidelines
+
+Store Timings:
+- Opening: 07:00 AM
+- Closing: 10:00 PM
+- Weekend Timings: 08:00 AM – 11:00 PM
+
+Available Inventory:
+- Hot Chocolate
+- Latte
+- Cappuccino
+- Mocha
+- Iced Latte
+- Hot Cocoa
+- Winter Specials: Ginger Hot Chocolate, Spicy Latte
+
+Active Offers:
+- HOT10: 10% off Hot Chocolate for repeat customers.
+- WINTER5: 5% discount on all hot beverages if temperature is below 20°C.
+- LATTE20: 20% off Latte for loyalty members on Mondays and Fridays.
+
+Customer Experience Guidelines:
+- If the customer mentions being cold, recommend a hot beverage such as Hot Chocolate or Ginger Hot Chocolate.
+- If customer is near the store, encourage them to come inside and mention the nearest branch distance.
+- If the customer asks for availability, respond with the updated inventory status.
+- If a customer is a repeat buyer, suggest something based on their purchase history.
+- Recommend offers or coupons only when relevant to the customer's preferences.
+
+Order & Pickup:
+- Average order preparation time: 3–5 minutes.
+- Pickup counter is located at the left side of the entrance.
+- Mobile orders have priority queueing during peak hours.

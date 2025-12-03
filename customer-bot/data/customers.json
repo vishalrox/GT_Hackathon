@@ -1,0 +1,11 @@
+[
+  {
+    "id": "cust_001",
+    "token": "<EMAIL_1>",
+    "name": "Vishal Mehta",
+    "preferences": ["Hot Chocolate", "Ginger Hot Chocolate"],
+    "history": [
+      {"item": "Hot Chocolate", "count": 3, "last_order": "2025-11-28"}
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "name": "StarBrew - Main St",
+    "distance_m": 50,
+    "inventory": ["Hot Chocolate", "Latte", "Cappuccino", "Iced Latte"],
+    "offers": ["HOT10", "WINTER5"]
+  }
+]
